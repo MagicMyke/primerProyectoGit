@@ -1,0 +1,15 @@
+/Users/myke/Desktop/GIT/bin/Debug/net5.0/GIT.deps.json
+/Users/myke/Desktop/GIT/bin/Debug/net5.0/GIT.runtimeconfig.json
+/Users/myke/Desktop/GIT/bin/Debug/net5.0/GIT.runtimeconfig.dev.json
+/Users/myke/Desktop/GIT/bin/Debug/net5.0/GIT.dll
+/Users/myke/Desktop/GIT/bin/Debug/net5.0/ref/GIT.dll
+/Users/myke/Desktop/GIT/bin/Debug/net5.0/GIT.pdb
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.csprojAssemblyReference.cache
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.AssemblyInfoInputs.cache
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.AssemblyInfo.cs
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.csproj.CoreCompileInputs.cache
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.dll
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/ref/GIT.dll
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.pdb
+/Users/myke/Desktop/GIT/obj/Debug/net5.0/GIT.genruntimeconfig.cache
